@@ -253,12 +253,6 @@ push_swap/
 - [Push_swap visualizer by o-reo](https://github.com/o-reo/push_swap_visualizer)
 
 ### AI Usage
-
-Claude (Anthropic) was used to assist with the following tasks during this project:
-
-- **Debugging:** Identifying compilation errors (duplicate symbol definitions, missing prototypes across translation units).
-- **Norm compliance review:** Checking function lengths, forbidden headers, variable declaration placement, and formatting against the 42 Norm.
-- **Edge-case analysis:** Testing boundary conditions (size=2, size=3, negative values, INT_MIN/INT_MAX, single-element input, already-sorted input).
-- **README drafting:** Writing and structuring this document.
+for understanding the algorthims
 
 All algorithmic decisions, data structure choices, complexity arguments, and the final submitted code were understood, reviewed, and validated by both learners before submission. No code was submitted without full comprehension by both team members.
